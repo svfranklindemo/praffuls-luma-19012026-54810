@@ -1,16 +1,22 @@
 {
   "mappings": [
-    "/content/praffuls-luma-02-01-11-55/language-masters/en:/",
-    "/content/praffuls-luma-02-01-11-55/language-masters/en/:/",
-    "/content/praffuls-luma-02-01-11-55/language-masters/en/:/en/",
-    "/content/praffuls-luma-02-01-11-55/configuration:/.helix/config.json",
-    "/content/praffuls-luma-02-01-11-55/metadata:/metadata.json",
-    "/content/praffuls-luma-02-01-11-55/redirects:/redirects.json",
-    "/content/praffuls-luma-02-01-11-55/placeholders:/placeholders.json",
-    "/content/praffuls-luma-02-01-11-55/custom-events:/custom-events.json"
+    "/content/praffuls/696dc5999dc9d74ce62b2822/language-masters/en:/",
+    "/content/praffuls/696dc5999dc9d74ce62b2822/language-masters/en/:/en/",
+    "/content/praffuls/696dc5999dc9d74ce62b2822/language-masters/fr/:/fr/",
+    "/content/praffuls/696dc5999dc9d74ce62b2822/language-masters/fr:/fr",
+    "/content/praffuls/696dc5999dc9d74ce62b2822/language-masters/es/:/es/",
+    "/content/praffuls/696dc5999dc9d74ce62b2822/language-masters/es:/es",
+    "/content/praffuls/696dc5999dc9d74ce62b2822/language-masters/ja/:/ja/",
+    "/content/praffuls/696dc5999dc9d74ce62b2822/language-masters/ja:/ja",
+    "/content/praffuls/696dc5999dc9d74ce62b2822/language-masters/de/:/de/",
+    "/content/praffuls/696dc5999dc9d74ce62b2822/language-masters/de:/de",
+    "/content/praffuls/696dc5999dc9d74ce62b2822/configuration:/.helix/config.json",
+    "/content/praffuls/696dc5999dc9d74ce62b2822/metadata:/metadata.json",
+    "/content/praffuls/696dc5999dc9d74ce62b2822/redirects:/redirects.json",
+    "/content/praffuls/696dc5999dc9d74ce62b2822/placeholders:/placeholders.json"
   ],
   "includes": [
-    "/content/praffuls-luma-02-01-11-55/",
-    "/content/dam/praffuls-luma-02-01-11-55/"
+    "/content/696dc5999dc9d74ce62b2822/",
+    "/content/dam/696dc5999dc9d74ce62b2822/"
   ]
 }
